@@ -8,6 +8,8 @@ dependencies = [
     "bs4>=0.0.2",
     "dotenv>=0.9.9",
     "ipython>=9.12.0",
+    "nest-asyncio>=1.6.0",
     "openai>=2.30.0",
+    "playwright>=1.58.0",
     "requests>=2.33.1",
 ]
